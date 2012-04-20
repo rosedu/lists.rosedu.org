@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+ <head>
+ <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+ <meta name="Description" content="ROSEdu is an organization based on a community formed by programming and open-source software enthusiasts, in the educational environment." />
+ <title>ROSEdu Mailing Lists</title>
+ <link rel="shortcut icon" href="http://rosedu.org/resources/favicon.ico" />
+ <link rel="stylesheet" type="text/css" href="http://rosedu.org/style.css" />
+ <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+ <script type="text/javascript" src="http://rosedu.org/resources/js/jquery-1.4.2.min.js"></script>
+ <script type="text/javascript" src="http://rosedu.org/resources/js/application.js"></script>
+ <script type="text/javascript" src="http://rosedu.org/resources/js/cufon-yui.js"></script>
+ <script type="text/javascript" src ="http://rosedu.org/resources/js/Cambria_400.font.js"></script>
+ <script type="text/javascript">
+   Cufon.replace('h1, h2, h3');
+   Cufon.replace('#header-menu', {hover:true});
+ </script>
+ </head>
+ <body>
+ <div id="wrapper">
+  <div id="header">
+   <a href="/" id="logo-header"></a>
+  </div>
+ 
+  {% if page.show_sidebar %}
+  <div class="right-sidebar">
+      <h2>Vezi și</h2>
+      <ul>
+          <li><a href="/guidelines">Cum scriem pe liste</a>
+          <p>Un set de recomandări pentru o bună comunicare.</p>
+          </li>
+          <li><a href="/listinfo">Toate listele &raquo;</a>
+          </li>
+      </ul>
+  </div> 
+  {% endif %}
+          
+  <div id="content">
+      {{content}}
+  </div>
+ </div>
+ </body>
+</html>

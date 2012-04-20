@@ -1,0 +1,7 @@
+exclude: fabfile.py fabfile.pyc README.md
+permalink: pretty
+basepath: /
+url: http://lists.rosedu.org
+paginate: 5
+
+ganalytics: UA-7579199-8
