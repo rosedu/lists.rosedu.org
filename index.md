@@ -14,11 +14,17 @@ Listă dedicată discuțiilor ontopic legate de coordonarea proiectelor și even
 
 ## Liste de proiect
 
+* **[CDL Internal](/listinfo/cdl-internal)**
+Discuții legate de organizarea CDL. Recomandat doar pentru persoanele implicate în CDL.
+
 * **[DEX Online](/listinfo/dexonline)**
 Lista de discuții pentru proiectul DEX Online.
 
 * **[RSoC Internal](/listinfo/rsoc-internal)**
 Lista de discuții organizatorice ROSEdu Summer of Code.
+
+* **[WoUSO Content](/listinfo/wouso-content)**
+Discuții legate de conținutul instanței curente a WoUSO, <a href="http://wouso.cs.pub.ro">wouso.cs.pub.ro</a>
 
 * **[WoUSO Development](/listinfo/wouso-dev)**
 Lista dezvoltatorilor și contribuitorilor World of USO
