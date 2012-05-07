@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: basero
 ---
 # Mailing Lists Guidelines
 *Latest update: 17/04/2012*

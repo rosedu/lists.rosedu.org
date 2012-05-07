@@ -1,38 +1,33 @@
 ---
-layout: basero
+layout: base
 show_sidebar: true
 ---
-## Liste principale
+## Main lists 
 
 * **[ROSEdu General](/listinfo/rosedu-general)**
     
-Cea mai veche listă a comunității, pe care purtăm orice fel de discuție, inclusiv offtopic.
+Community mailing lists for general purposes, including offtopic.
 
 * **[ROSEdu Project](/listinfo/rosedu-project)**
     
-Listă dedicată discuțiilor ontopic legate de coordonarea proiectelor și evenimentelor ontopic.
+Organisational mailing lists, where we discuss project and event coordination.
 
-## Liste de proiect
+## Project mailing lists
 
 * **[CDL Internal](/listinfo/cdl-internal)**
-Discuții legate de organizarea CDL. Recomandat doar pentru persoanele implicate în CDL.
+CDL organising discussions, recomended only to people directly involved.
 
 * **[DEX Online](/listinfo/dexonline)**
-Lista de discuții pentru proiectul DEX Online.
+DEX Online project mailing list.
 
 * **[RSoC Community](/listinfo/rsoc-community)**
-Lista de discuții pentru întrebări și anunțuri legate de programul ROSEdu Summer of Code.
 
 * **[RSoC Mentors](/listinfo/rsoc-mentors)**
-Lista de discuții interne pentru mentorii implicați în ROSEdu Summer of Code.
 
 * **[RSoC Internal](/listinfo/rsoc-internal)**
-Lista de discuții organizatorice ROSEdu Summer of Code.
 
 * **[WoUSO Content](/listinfo/wouso-content)**
-Discuții legate de conținutul instanței curente a WoUSO, <a href="http://wouso.cs.pub.ro">wouso.cs.pub.ro</a>
 
 * **[WoUSO Development](/listinfo/wouso-dev)**
-Lista dezvoltatorilor și contribuitorilor World of USO
 
 
