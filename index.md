@@ -30,4 +30,9 @@ DEX Online project mailing list.
 
 * **[WoUSO Development](/listinfo/wouso-dev)**
 
+## ROSEdu NGO
+
+* **[Members](/listinfo/members)**
+
+* **[Consiliu](/listinfo/consiliu)**
 

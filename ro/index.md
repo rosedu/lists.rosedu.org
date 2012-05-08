@@ -35,4 +35,11 @@ Discuții legate de conținutul instanței curente a WoUSO, <a href="http://wous
 * **[WoUSO Development](/listinfo/wouso-dev)**
 Lista dezvoltatorilor și contribuitorilor World of USO
 
+## Asociație
+
+* **[Members](/listinfo/members)**
+Lsită de discuții pentru membrii Asociației ROSEdu.
+
+* **[Consiliu](/listinfo/consiliu)**
+Listă de discuții pentru membrii consiliului Asociației ROSEdu.
 
