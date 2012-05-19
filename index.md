@@ -34,5 +34,5 @@ DEX Online project mailing list.
 
 * **[Members](/listinfo/members)**
 
-* **[Consiliu](/listinfo/consiliu)**
+* **[Directors Board](/listinfo/consiliu)** - address anything related to the [board of directors](http://rosedu.org/legal/) here.
 
