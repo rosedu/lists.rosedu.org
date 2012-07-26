@@ -20,6 +20,8 @@ CDL organising discussions, recomended only to people directly involved.
 * **[DEX Online](/listinfo/dexonline)**
 DEX Online project mailing list.
 
+* **[Linux Kernel Community](/listinfo/firefly)**
+
 * **[RSoC Community](/listinfo/rsoc-community)**
 
 * **[RSoC Mentors](/listinfo/rsoc-mentors)**
