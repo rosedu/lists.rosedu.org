@@ -20,6 +20,9 @@ Discuții legate de organizarea CDL. Recomandat doar pentru persoanele implicate
 * **[DEX Online](/listinfo/dexonline)**
 Lista de discuții pentru proiectul DEX Online.
 
+* **[Linux Kernel Community](/listinfo/firefly)**
+Lista de discuții pentru proiectul Firefly, legată de dezvoltarea nucleului Linux.
+
 * **[RSoC Community](/listinfo/rsoc-community)**
 Lista de discuții pentru întrebări și anunțuri legate de programul ROSEdu Summer of Code.
 
