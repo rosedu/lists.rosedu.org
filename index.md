@@ -6,11 +6,15 @@ show_sidebar: true
 
 * **[ROSEdu General](/listinfo/rosedu-general)**
     
-Community mailing lists for general purposes, including offtopic.
+Community mailing list for general purposes, including offtopic.
 
 * **[ROSEdu Project](/listinfo/rosedu-project)**
     
-Organisational mailing lists, where we discuss project and event coordination.
+Organisational mailing list, where we discuss project and event coordination.
+
+* **[ROSEdu Project](/listinfo/need)**
+    
+Community mailing list, where we post call-for-help initiatives.
 
 ## Project mailing lists
 
