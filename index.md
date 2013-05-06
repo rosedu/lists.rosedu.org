@@ -12,7 +12,7 @@ Community mailing list for general purposes, including offtopic.
     
 Organisational mailing list, where we discuss project and event coordination.
 
-* **[ROSEdu Project](/listinfo/need)**
+* **[ROSEdu Need](/listinfo/need)**
     
 Community mailing list, where we post call-for-help initiatives.
 
