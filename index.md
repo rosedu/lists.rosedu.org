@@ -16,6 +16,10 @@ Organisational mailing list, where we discuss project and event coordination.
     
 Community mailing list, where we post call-for-help initiatives.
 
+* **[ROSEdu Sport](/listinfo/sport)**
+    
+Community mailing list, where we post sport events and other activities.
+
 ## Project mailing lists
 
 * **[CDL Internal](/listinfo/cdl-internal)**
