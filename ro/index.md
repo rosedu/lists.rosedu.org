@@ -12,6 +12,15 @@ Cea mai veche listă a comunității, pe care purtăm orice fel de discuție, in
     
 Listă dedicată discuțiilor ontopic legate de coordonarea proiectelor și evenimentelor ontopic.
 
+* **[ROSEdu Need](/listinfo/need)**
+    
+Lista unde postam initiativele de ajutor pentru comunitate.
+
+* **[ROSEdu Sport](/listinfo/sport)**
+    
+Aici apar evenimentele sportive si alte activitati fizice.
+
+
 ## Liste de proiect
 
 * **[CDL Internal](/listinfo/cdl-internal)**
