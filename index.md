@@ -25,6 +25,9 @@ Community mailing list, where we post sport events and other activities.
 * **[CDL Internal](/listinfo/cdl-internal)**
 CDL organising discussions, recomended only to people directly involved.
 
+* **[CDL Studenti](/listinfo/cdl-studenti)**
+CDL discussions between students and mentors.
+
 * **[DEX Online](/listinfo/dexonline)**
 DEX Online project mailing list.
 
