@@ -8,14 +8,6 @@ show_sidebar: true
     
 Community mailing list for general purposes, including offtopic.
 
-* **[ROSEdu Project](/listinfo/rosedu-project)**
-    
-Organisational mailing list, where we discuss project and event coordination.
-
-* **[ROSEdu Need](/listinfo/need)**
-    
-Community mailing list, where we post call-for-help initiatives.
-
 * **[ROSEdu Sport](/listinfo/sport)**
     
 Community mailing list, where we post sport events and other activities.
